@@ -12,7 +12,7 @@ const currTime = document.querySelector('#currTime');
 const durTime = document.querySelector('#durTime');
 
 // Song titles
-const songs = ['Podcast', 'Narration-NonFiction', 'MultiVoice', 'Narration-Fiction', 'Narration-NonFiction2'];
+const songs = ['Podcast', 'Narration-NonFiction', 'MultiVoice', 'Narration-Fiction'];
 
 // Keep track of song
 let songIndex = 2;
